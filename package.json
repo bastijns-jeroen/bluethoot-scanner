@@ -1,0 +1,11 @@
+{
+  "name": "bluetooth-scanner",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "noble": "^1.7.0"
+  }
+}
